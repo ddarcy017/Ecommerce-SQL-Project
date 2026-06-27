@@ -1,4 +1,3 @@
-Project Overview
 This project demonstrates an end-to-end SQL data cleaning and exploratory data analysis (EDA) workflow using a simulated e-commerce sales dataset. The objective was to improve data quality by identifying and correcting inconsistencies while generating business insights to support decision-making.
 
 Dataset
